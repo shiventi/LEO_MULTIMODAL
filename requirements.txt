@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+google-cloud-generative-ai
+pathlib
+playsound
+re
+googlesearch
+tensorflow
+pygments
+google
+Pillow
+opencv-python
+face-recognition
+spacy
+beautifulsoup4
