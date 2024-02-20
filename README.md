@@ -26,4 +26,4 @@ LEO is a chatbot with a web interface, using natural language processing (NLP) a
    pip install -r requirements.txt
 
 ## Usage:
-    python chat.py (make sure to pip install all libraries)
+    python chat.py
